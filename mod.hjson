@@ -1,0 +1,15 @@
+name: serpulo-definition
+displayName: "[cyan[]]Elemental [pink[]]Languages"
+author: Seraphim4404
+subtitle: "[[]#7d4dff]Ping me @seraphim4404 on discodd for any feedbacks.[]"
+description:
+  '''
+  [purple[]]< < BETA > >
+  Dedicated mod to add nearly all descriptions, names and such with colors, unique names and more.
+
+  This mod will also overwrite properties of items and liquids into their respective form in real life.
+  [accent[]]Note: This wil exclude items and liquids that do not exist in the Human world.
+  '''
+version: 1.25
+minGameVersion: 146
+repo: Seraphalim4404/elemental-languages
