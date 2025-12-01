@@ -15,9 +15,9 @@ description:
 
 
   Game Levels- 
-  [#96aceb]:eye: [accent]Color = Early-game
-  [#f7dd8e]:eye: [accent]Color = Mid-game
-  [#b273ff]:eye: [accent]Color = Late-game
+  [#96aceb]:mode_survival: [accent]Color = Early-game
+  [#f7dd8e]:mode_survival: [accent]Color = Mid-game
+  [#b273ff]:mode_survival: [accent]Color = Late-game
   '''
 version: 1.94
 minGameVersion: 146
