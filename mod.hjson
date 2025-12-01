@@ -8,7 +8,16 @@ description:
   Dedicated mod to add nearly all descriptions, names and such with colors, unique names and more.
 
   This mod will also overwrite properties of items and liquids into their respective form in real life.
+
   [accent[]]Note: This wil exclude items and liquids that do not exist in the Human world.
+
+  [cyan]Features>>>[]
+
+
+  Game Levels- 
+  [#96aceb]:eye: [accent]Color = Early-game
+  [#f7dd8e]:eye: [accent]Color = Mid-game
+  [#b273ff]:eye: [accent]Color = Late-game
   '''
 version: 1.94
 minGameVersion: 146
