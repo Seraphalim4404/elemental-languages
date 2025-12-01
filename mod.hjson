@@ -11,13 +11,13 @@ description:
 
   [accent[]]Note: This wil exclude items and liquids that do not exist in the Human world.
 
-  [cyan]Features>>>[]
+  [cyan[]]Features>>>[]
 
 
   Game Levels- 
-  [#96aceb]:mode_survival: [accent]Color = Early-game
-  [#f7dd8e]:mode_survival: [accent]Color = Mid-game
-  [#b273ff]:mode_survival: [accent]Color = Late-game
+  [#96aceb[]]Color used for Early-game Content.
+  [#f7dd8e[]]Color used for Mid-game Content.
+  [#b273ff[]]Color used for Late-game Content.
   '''
 version: 1.94
 minGameVersion: 146
