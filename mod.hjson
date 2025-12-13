@@ -16,10 +16,17 @@ description:
 
   [accent[]]Contents-
 
-  [#
-  [#96aceb[]]Color used for Early-game Content.
-  [#f7dd8e[]]Color used for Mid-game Content.
-  [#b273ff[]]Color used for Late-game Content.
+  [#ab7ae2[]]Serpulo > >
+  [#96aceb[]]Color for Early-game Content.
+  [#f7dd8e[]]Color for Mid-game Content.
+  [#b273ff[]]Color for Late-game Content.
+
+  [#fa9979[]]Erekir > >
+
+  [#96aceb[]]Color for Early-game Content.
+  [#f7dd8e[]]Color for Mid-game Content.
+  [#b273ff[]]Color for Late-game Content.
+
   '''
 version: 1.94
 minGameVersion: 146
