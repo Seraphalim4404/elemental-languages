@@ -7,12 +7,9 @@ description:
   [#d2b1ed[]]< < BETA > >
   Dedicated mod to add nearly all descriptions, names and such with colors, unique names and more.
   This mod will also overwrite properties of items and liquids into their respective form in real life.
-  
   [accent[]]Note: Some may be fictional according to how they are made in Mindustry ONLY.
-
   
   [cyan[]]Features > > >
-
 
   [accent[]]Contents-
 
@@ -21,14 +18,15 @@ description:
   [#f7dd8e[]]Color for Mid-game Content.
   [#b273ff[]]Color for Late-game Content.
 
+
   [#fa9979[]]Erekir > >
 
-  [#96aceb[]]Color for Early-game Content.
-  [#f7dd8e[]]Color for Mid-game Content.
-  [#b273ff[]]Color for Late-game Content.
+  [#ff6d57[]]Color for Early-game Content.
+  [#fff5bf[]]Color for Mid-game Content.
+  [#c77ac8[]]Color for Late-game Content.
 
   '''
-version: 1.94
+version: 3.90
 minGameVersion: 146
 repo: Seraphalim4404/elemental-languages
 hidden: true
