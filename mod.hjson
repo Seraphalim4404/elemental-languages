@@ -4,7 +4,7 @@ author: Seraphim4404
 subtitle: "[pink[]]@seraphim4404 on discord for any feedbacks.[]"
 description:
   '''
-  [purple[]]< < BETA > >
+  [#d2b1ed[]]< < BETA > >
   Dedicated mod to add nearly all descriptions, names and such with colors, unique names and more.
   This mod will also overwrite properties of items and liquids into their respective form in real life.
   
@@ -14,8 +14,9 @@ description:
   [cyan[]]Features > > >
 
 
-  [accent[]]Game Levels- 
-  
+  [accent[]]Contents-
+
+  [#
   [#96aceb[]]Color used for Early-game Content.
   [#f7dd8e[]]Color used for Mid-game Content.
   [#b273ff[]]Color used for Late-game Content.
